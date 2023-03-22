@@ -30,7 +30,7 @@ Android
 
 IOS
 <p align="">
-  <img width="220" height="500" src="https://github.com/AntonyGN/Responsive-dashboard/blob/main/images/iOS2.png">
+  <img width="230" height="500" src="https://github.com/AntonyGN/Responsive-dashboard/blob/main/images/iOS2.png">
 </p>
 
 ## Usage
