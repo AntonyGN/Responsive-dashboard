@@ -4,7 +4,7 @@ This is a responsive dashboard sidebar template built using HTML, CSS, and JavaS
 ## Table of Contents
 - [Features](#Features)
 - [Demo](#Demo)
-- [Getting Started](#Getting Started)
+- [Usage](#Usage)
 - [Contributing](#Contributing)
 - [License](#License)
 
@@ -17,9 +17,9 @@ This is a responsive dashboard sidebar template built using HTML, CSS, and JavaS
 - Built with HTML, CSS, and JavaScript
 
 ## Demo
-You can view a live demo of this template at []().
+You can view a live demo of this template at [responsive-dashboard-sidebar](https://responsive-dashboard-sidebar.netlify.app/).
 
-## Getting Started
+## Usage
 To get started, simply clone this repository to your local machine and open the ```index.html``` file in your browser. You can modify the HTML, CSS, and JavaScript files to customize the sidebar to your liking.
 
 ## Contributing
