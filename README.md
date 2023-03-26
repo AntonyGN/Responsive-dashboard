@@ -23,12 +23,12 @@ You can view a live demo of this template at [responsive-dashboard-sidebar](http
 ## Screenshots 
 Below are screenshots of the sidebar across all platforms
 
-Android
+#### Android
 <p align="">
   <img width="270" height="500" src="https://github.com/AntonyGN/Responsive-dashboard/blob/main/images/Android2.png">
 </p>
 
-IOS
+#### IOS
 <p align="">
   <img width="230" height="500" src="https://github.com/AntonyGN/Responsive-dashboard/blob/main/images/iOS2.png">
 </p>
